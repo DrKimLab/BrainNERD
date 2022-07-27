@@ -50,7 +50,7 @@ conda install -c conda-forge cupy
 ``` 
 
 ### Loading and or Downloading the Model <a name="subparagraph2"></a>
-Inside the Models folder you will find the the models if your fork or download this repo. In order to use it Download a model and store in the directory you will use or call the directory from the load function <br>
+Inside the Models folder you will find the link to download the models. In order to use a model you need to save the model in your project directory. Or you can save the model in another directory and call the model directory from the load function <br>
 Below is the link to download the model from our drive: <br>
 https://drive.google.com/drive/folders/1iO3qA9XppRrnOqZWrrDyWXuIVpr7FzEJ?usp=sharing
 
