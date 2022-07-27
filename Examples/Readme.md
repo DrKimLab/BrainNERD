@@ -2,4 +2,12 @@
 
 
 
-# In this folder you will find the examples on how to use the model. For a quick interactive tutorial please press the colab button above
+# In this folder you will find the examples on how to use the model. 
+## For a quick interactive tutorial please press the colab button above or click on the Tuttorial_Brainnerd.ipynb
+This tutorial uses google colab, in order to use the tutorial successfully you will need to download the model and load your model into your google drive. 
+
+Here is the link to the model
+
+https://drive.google.com/drive/folders/1iO3qA9XppRrnOqZWrrDyWXuIVpr7FzEJ?usp=sharing
+
+Enjoy!
