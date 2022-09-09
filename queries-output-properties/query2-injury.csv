@@ -1,0 +1,40 @@
+id
+5,Injury: hemorrhage,Magnitude: ['Mag-Small'],"Compartment: {'Compart-ExtAx': ['subarachnoid'], 'Compart-IntAx': ['cerebral', 'sulci']}",Direction: ['left']
+5,Injury: hemorrhage,Magnitude: ['Mag-Better'],Ventricle: ['intraventricular']
+5,Injury: Embolization coil mass,Direction: ['right']
+5,Injury: ventriculostomy catheter,Magnitude: ['Mag-Same'],Direction: ['right'],Region: ['frontal']
+104,Injury: hemorrhage,Duration: ['Dur-New'],"Direction: ['right', 'inferiorly']","Compartment: {'Compart-ExtAx': ['subdural', 'subdural']}"
+104,Injury: hemorrhagic,Duration: ['Dur-Old'],Direction: ['right'],Region: ['temporal']
+104,Injury: drainage catheter,Duration: ['Dur-New'],"Direction: ['right', 'inferiorly']","Compartment: {'Compart-ExtAx': ['subdural', 'subdural']}"
+104,Injury: hemicraniectomy,Magnitude: ['Mag-Modifer'],"Direction: ['right', 'right', 'right']","Compartment: {'Compart-IntAx': ['cerebral', 'sulci']}",Region: ['occipital'],Ventricle: ['horn'],Duration: ['Dur-Old']
+104,Injury: postsurgical,Magnitude: ['Mag-Modifer'],"Direction: ['right', 'right', 'right']","Compartment: {'Compart-IntAx': ['cerebral', 'sulci']}",Region: ['occipital'],Ventricle: ['horn'],Duration: ['Dur-Old']
+104,Injury: effacement,Magnitude: ['Mag-Modifer'],"Direction: ['right', 'right', 'right']","Compartment: {'Compart-IntAx': ['cerebral', 'sulci']}",Region: ['occipital'],Ventricle: ['horn'],Duration: ['Dur-Old']
+104,Injury: collection,Duration: ['Dur-New'],"Direction: ['right', 'inferiorly']","Compartment: {'Compart-ExtAx': ['subdural', 'subdural']}"
+104,Injury: collection,Size: ['2.2 cm']
+106,Injury: Hemorrhagic,Duration: ['Dur-Old'],"Direction: ['bilateral', 'left', 'right']","Compartment: {'Compart-IntAx': ['gyrus', 'gyri']}",Region: ['frontal'],Magnitude: ['Mag-Worse']
+106,Injury: hemorrhagic,Magnitude: ['Mag-Small'],"Direction: ['left', 'inferior', 'right']","Region: ['temporal', 'temporal']",Compartment: {'Compart-IntAx': ['lobe']}
+106,Injury: hemorrhage,Magnitude: ['Mag-Large'],Compartment: {'Compart-ExtAx': ['subarachnoid']},Direction: ['bilaterally']
+106,Injury: hemorrhages,Magnitude: ['Mag-Small'],Direction: ['left'],"Compartment: {'Compart-ExtAx': ['parafalcine', 'subdural']}"
+106,Injury: low density,Magnitude: ['Mag-Worse'],Direction: ['bilateral'],Region: ['frontoparietal'],Compartment: {'Compart-External': ['scalp']}
+106,Injury: fluid collections,Magnitude: ['Mag-Worse'],Direction: ['bilateral'],Region: ['frontoparietal'],Compartment: {'Compart-External': ['scalp']}
+107,Injury: hematoma,Direction: ['left'],"Compartment: {'Compart-ExtAx': ['holohemispheric', 'subdural']}",Size: ['7 mm'],Magnitude: ['Mag-Same'],Duration: ['Dur-Old']
+107,Injury: hemorrhage,Duration: ['Dur-Old'],"Compartment: {'Compart-ExtAx': ['subarachnoid', 'sylvian fissure'], 'Compart-IntAx': ['lobe', 'sulci', 'lobe']}","Direction: ['right', 'left', 'left']","Region: ['frontal', 'parietal']",Magnitude: ['Mag-Same']
+107,Injury: hematoma,Direction: ['left']
+107,Injury: Postoperative,Magnitude: ['Mag-Modifer'],Direction: ['bilateral']
+107,Injury: mass effect,Compartment: {'Compart-IntAx': ['sulci']}
+107,Injury: effacement,Compartment: {'Compart-IntAx': ['sulci']}
+107,Injury: edema,Direction: ['left']
+107,Injury: hypodensities,Magnitude: ['Mag-Modifer'],"Compartment: {'Compart-IntAx': ['subcortical', 'periventricular']}",Duration: ['Dur-Old']
+107,Injury: air
+109,Injury: hematoma,Magnitude: ['Mag-Same'],Duration: ['Dur-New'],"Direction: ['left', 'left']","Region: ['parietal', 'frontal']",Compartment: {'Compart-ExtAx': ['epidural']},Size: ['2.1 cm']
+109,Injury: hematoma,Magnitude: ['Mag-Small'],Compartment: {'Compart-ExtAx': ['epidural']},Direction: ['left'],Region: ['occipital'],Ventricle: ['horn']
+109,Injury: hemorrhage,Magnitude: ['Mag-Small'],"Ventricle: ['intraventricular extension', 'horn']",Direction: ['right'],Region: ['occipital']
+109,Injury: hematoma,"Direction: ['left', 'vertex']",Region: ['parietal'],Compartment: {'Compart-External': ['subgaleal']},Magnitude: ['Mag-Same']
+109,Injury: hemorrhagic,Direction: ['left-sided'],Duration: ['Dur-Old'],Region: ['temporal']
+109,Injury: placement,Duration: ['Dur-Old'],Direction: ['right']
+109,Injury: mass effect,Magnitude: ['Mag-Small'],Compartment: {'Compart-ExtAx': ['epidural']},Direction: ['left'],Region: ['occipital'],Ventricle: ['horn']
+109,Injury: effacement,Magnitude: ['Mag-Small'],Compartment: {'Compart-ExtAx': ['epidural']},Direction: ['left'],Region: ['occipital'],Ventricle: ['horn']
+109,Injury: Edema,Direction: ['right']
+109,Injury: swelling,Direction: ['right']
+109,Injury: gas,Magnitude: ['Mag-Same'],Duration: ['Dur-New'],"Direction: ['left', 'left']","Region: ['parietal', 'frontal']",Compartment: {'Compart-ExtAx': ['epidural']},Size: ['2.1 cm']
+109,Injury: pneumocephalus,Magnitude: ['Mag-Same'],Duration: ['Dur-New'],"Direction: ['left', 'left']","Region: ['parietal', 'frontal']",Compartment: {'Compart-ExtAx': ['epidural']},Size: ['2.1 cm']

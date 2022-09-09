@@ -1,0 +1,6 @@
+id,Hemorrhage,Stroke,Hydrocephalus,Surgical_All,Herniation,MassEffect,MidlineShift,Edema,Density_Low,Density_High,Density_Mixed,Density_Undiff,Fluid,Lesion,Pneumocephalus,VascMalform
+5,+,-,-,+,0,-,-,-,0,0,0,0,0,-,0,0
+104,+,0,-,+,0,+,-,0,0,0,0,0,+,0,0,0
+106,+,0,0,0,0,-,-,-,+,0,0,0,+,-,0,0
+107,+,-,0,+,0,+,-,+,+,0,0,0,p,0,+,0
+109,+,-,-,+,0,+,-,+,0,0,0,p,0,0,+,0
