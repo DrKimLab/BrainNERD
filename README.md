@@ -42,16 +42,16 @@ Clinical text reports from computed tomography(CT) represent rich, incompletely 
 
 ### Examples
 
-#### Visual representation of the entities by spaCy 
+#### Visual representation of the entities using spaCy visualizer 
 
 ![report_display](https://user-images.githubusercontent.com/108024932/197589375-cbd7cfc2-3cb3-4e0e-a415-5aeaea4123ff.png)
 
 
-#### Long output of the model by report
+#### Long output of the model by report. 
 
 ![Long](https://user-images.githubusercontent.com/108024932/197589456-1bbb50a2-c742-4345-8fad-c1115692aae7.png)
 
-#### Wide output by the model by report ( This can be done in batch scrip in order to have multiple reports in one dataframe or table)
+#### Wide output by the model by report (You can batch scrip this process in order to have multiple reports in one dataframe or table)
 
 ![wide](https://user-images.githubusercontent.com/108024932/197589761-9cc6e8a0-a806-4276-b006-7f08504c4ad9.png)
 
