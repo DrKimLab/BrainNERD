@@ -1,7 +1,9 @@
+# Brainerd Interactive APP
+
 In this part we include the code for Interactive Application for BrainNerd
 
 
-# The file structure should be like this:
+### The file structure should be like this:
 
 ```
 Brainnerd/
