@@ -3,6 +3,22 @@
 In this part we include the code for Interactive Application for BrainNerd
 
 
+### Instructions
+
+*Create a new environment*
+
+` conda create -n Brainnerd python=3.10`
+
+`conda activate Brainnerd`
+
+
+
+
+
+- Python 3.10
+- P
+
+
 ### The file structure should be like this:
 
 ```
