@@ -1,6 +1,6 @@
 # Brainerd Interactive APP
 
-In this part we include the code for Interactive Application for BrainNerd
+Interactive Application for BrainNerd
 
 
 ### Instructions
