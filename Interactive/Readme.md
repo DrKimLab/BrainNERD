@@ -20,6 +20,15 @@ In this part we include the code for Interactive Application for BrainNerd
 `pip install transformers==4.21.23`
 
 
+### How to run the files 
+
+- cd into the directory in where the Brainner Main file lives = Brainnerd.py
+
+- excetucte the file
+
+> - `streamlit run Brainnerd.py`
+
+
 ### The file structure should be like this:
 
 ```
