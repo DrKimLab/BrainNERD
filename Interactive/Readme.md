@@ -11,10 +11,10 @@ In this part we include the code for Interactive Application for BrainNerd
 
 `conda activate Brainnerd`
 
-`pip install streamlit==1.22.0
-pip install pandas==1.4.3
-pip install spacy==3.4.1
-pip install transformers==4.21.23`
+`pip install streamlit==1.22.0`
+`pip install pandas==1.4.3`
+`pip install spacy==3.4.1`
+`pip install transformers==4.21.23`
 
 
 ### The file structure should be like this:
